@@ -1,0 +1,6 @@
+@ValidadorVIES_HostAddress = http://localhost:5014
+
+GET {{ValidadorVIES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
